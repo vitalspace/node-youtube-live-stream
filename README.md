@@ -19,7 +19,9 @@ npm install
 4 Go to "app.js" and modify the fields indicated there.
 
 5 START Broadcasting.
+
 In your console run the command:
+
 npm run stream
 
 ENJOY.
