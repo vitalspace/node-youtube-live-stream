@@ -2,7 +2,7 @@
 Get youtube streams with "youtube-dl-exec" and re-stream with "ffmpeg".
 
 
-First of all make sure to install "ffmpeg".
+First of all make sure to install "ffmpeg" and Nodejs.
 
 1 Clone this repo
 
