@@ -1,0 +1,16 @@
+{
+  "name": "livestream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "stream": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
+    "youtube-dl-exec": "^2.0.2"
+  }
+}
