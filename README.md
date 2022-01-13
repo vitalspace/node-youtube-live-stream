@@ -1,5 +1,5 @@
 # node-youtube-live-stream
-Get youtube stream with "youtube-dl-exec" and re-stream with "ffmpeg".
+Get youtube streams with "youtube-dl-exec" and re-stream with "ffmpeg".
 
 
 First of all make sure to install "ffmpeg".
