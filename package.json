@@ -1,5 +1,5 @@
 {
-  "name": "livestream",
+  "name": "node-youtube-live-stream",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
